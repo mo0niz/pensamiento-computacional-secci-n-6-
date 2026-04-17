@@ -9,3 +9,6 @@ ejercicios y éntralas de código para el curso de pensamiento computacional
 
 ![link](ww.google.com)
 ![texto alternativo imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B05DWyjaiFRmI3SxJQ4S65QHuS5sD5CX1Q&s)
+
+una imagen de ruta:
+![imagen](yobien/s.jpeg)
